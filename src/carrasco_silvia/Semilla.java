@@ -18,9 +18,9 @@ public class Semilla {
     }
 
     public Semilla(String nombre, int codigo, int precio) {
-        
-          
-          this.nombre = nombre;
+    
+        this.nombre = nombre;
+        this.nombre = nombre;
         this.codigo = codigo;
         this.precio = precio;
     }
